@@ -70,7 +70,7 @@
      <None Include="Assets\JMO Assets\Cartoon FX\Shaders\CFX3 Multiply Color.shader" />
      <None Include="Assets\JMO Assets\Cartoon FX\CartoonFX Free.txt" />
      <None Include="Assets\JMO Assets\Cartoon FX Easy Editor\CartoonFX Easy Editor Readme.txt" />
-     <None Include="Assets\my creation\Material\NewSurfaceShader.shader" />
+     <None Include="Assets\MYCREATION\Material\NewSurfaceShader.shader" />
      <None Include="Assets\JMO Assets\Cartoon FX\Shaders\CFXM_MobileParticleAdd_Alpha8.shader" />
      <None Include="Assets\Hovl Studio\Procedural fire\Shaders\FireSphere.shader" />
      <None Include="Assets\Hovl Studio\Procedural fire\Demo scene\Readme.txt" />
