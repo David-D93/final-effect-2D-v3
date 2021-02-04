@@ -85142,7 +85142,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 3
       scalar: 0.15
-      minScalar: 0.33
+      minScalar: 0.42
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -85403,13 +85403,13 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     randomizeRotationDirection: 0
-    maxNumParticles: 1000
+    maxNumParticles: 1031
     size3D: 0
     rotation3D: 1
     gravityModifier:
       serializedVersion: 2
       minMaxState: 0
-      scalar: -2.07
+      scalar: -2.11
       minScalar: 0
       maxCurve:
         serializedVersion: 2
